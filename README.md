@@ -59,17 +59,6 @@ I work on enterprise .NET systems: migrating .NET Framework applications to mode
 
 ---
 
-### 📌 Featured
-
-<!-- Replace these with your own repos. Pin the same ones on your profile. -->
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**project-name**](https://github.com/FelipeJMC/project-name) | One line on the problem it solves. | .NET 8 · Blazor · Oracle |
-| [**project-name**](https://github.com/FelipeJMC/project-name) | One line on the problem it solves. | ASP.NET Core · Docker · AWS |
-| [**project-name**](https://github.com/FelipeJMC/project-name) | One line on the problem it solves. | C# · EF Core · PostgreSQL |
-
----
 
 ### 📊 GitHub Stats
 
